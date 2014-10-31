@@ -1,6 +1,6 @@
 {
   "name": "es6-module-transpiler-package-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolves files in projects using the Ember.js-style package structure.",
   "main": "index.js",
   "scripts": {
