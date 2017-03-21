@@ -1,5 +1,7 @@
 # Package Resolver
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventualbuddha/es6-module-transpiler-package-resolver.svg)](https://greenkeeper.io/)
+
 This resolver is intended to work with the [ES6 Module Transpiler][es6-module-transpiler] to provide file resolution for
 projects written using the "package" style, e.g.
 
